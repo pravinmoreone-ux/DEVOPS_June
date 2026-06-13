@@ -1,0 +1,7 @@
+1) Done the Coding Practice
+
+2) revisited today's docker video for missed point and revision  (in fast mode 1.25x speed)
+
+3) Practice Docker on AWS console as guided in todays docker session
+
+4) 
